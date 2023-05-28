@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"/>
+
+    <item
+        android:id="@+id/bmi"
+        android:title="BMI"
+        android:icon="@drawable/baseline_fitness_center_24"/>
+
+
+    <item
+        android:id="@+id/Daily_Calories"
+        android:title="Daily Calories"
+        android:icon="@drawable/baseline_food_bank_24"/>
+
+
+
+</menu>
