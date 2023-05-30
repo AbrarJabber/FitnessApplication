@@ -39,6 +39,7 @@
             android:textSize="25sp"
             android:hint="KG"
             android:gravity="center"
+            android:textColor="#000"
             android:layout_marginLeft="80dp"/>
     </LinearLayout>
 
@@ -64,6 +65,7 @@
             android:textSize="25sp"
             android:hint="cm"
             android:gravity="center"
+            android:textColor="#000"
             android:layout_marginLeft="80dp"/>
     </LinearLayout>
 
@@ -73,7 +75,7 @@
         android:layout_height="60dp"
         android:text="Result"
         android:background="@drawable/custombutton"
-        android:textSize="25sp"
+        android:textSize="20sp"
         android:textColor="#000"
         android:textStyle="bold"
         android:layout_marginTop="30dp"
@@ -103,7 +105,7 @@
         android:layout_height="60dp"
         android:text="Reset"
         android:background="@drawable/custombutton"
-        android:textSize="25sp"
+        android:textSize="20sp"
         android:textColor="#000"
         android:textStyle="bold"
         android:layout_marginTop="30dp"
